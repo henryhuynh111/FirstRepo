@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/XmuN4Ol.gif)
 
+![](https://i.imgur.com/XmuN4Ol.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
